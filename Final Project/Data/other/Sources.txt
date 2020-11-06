@@ -1,0 +1,5 @@
+Sources:
+
+- country_income.csv: World Bank, https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS
+- country_old.csv: World Bank, https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS
+- owid-covid-data.csv: Oxford University - Our World in Data, https://ourworldindata.org/coronavirus-testing
